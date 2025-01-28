@@ -6,6 +6,6 @@ Maguoman은 마인크래프트에서 구독자가 오르는 만큼 특별한 이
 
 실행 파일은 아래에서 다운로드할 수 있습니다:
 
-- [Windows 실행 파일 다운로드](https://github.com/사용자명/저장소명/raw/main/my_program.exe)
+- [Windows 실행 파일 다운로드](https://github.com/cpp7957/maguoman/raw/main/gui.exe)
 
-또는 [Release 페이지](https://github.com/사용자명/저장소명/releases)에서 모든 버전을 확인할 수 있습니다.
+또는 [Release 페이지](https://github.com/cpp7957/maguoman/releases)에서 모든 버전을 확인할 수 있습니다.
