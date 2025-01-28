@@ -16,8 +16,8 @@ logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(
 # 설정 파일 로드
 def load_config(file_name="config.json"):
     default_config = {
-        "channel_id": "UCPW8jTlTN-ihPfhsEJdABDQ",
-        "check_interval": 2,
+        "channel_id": "",
+        "check_interval": 1,
         "selenium_headless": False
     }
     current_dir = os.path.dirname(os.path.abspath(__file__))
