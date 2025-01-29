@@ -14,7 +14,15 @@ Maguoman은 마인크래프트에서 구독자 수의 증가에 따라 특별한
    pip install -r requirements.txt
    ```
 
-2. `config.json` 파일을 설정합니다.
+2. `config.json` 파일을 설정합니다. 기본적인 형태는 다음과 같습니다:
+
+   ```json
+   {
+       "channel_id": "UCSWQa03CtaDqpr-agzAllPg",
+       "check_interval": 1,
+       "selenium_headless": true
+   }
+   ```
 
 3. 실행 방식에 따라 다음 중 하나를 선택합니다:
    - GUI 형식으로 실행하려면 `gui.py`를 실행하세요.
