@@ -18,7 +18,7 @@ Maguoman은 마인크래프트에서 구독자 수의 증가에 따라 특별한
 
    ```json
    {
-       "channel_id": "UCSWQa03CtaDqpr-agzAllPg",
+       "channel_id": "YOUR_CHANNEL_ID",
        "check_interval": 1,
        "selenium_headless": true
    }
